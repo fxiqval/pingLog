@@ -1,0 +1,7 @@
+name: pingLog
+version: '${project.version}'
+main: eu.fxiq.pinglog.PingLog
+api-version: 1.19
+authors: [fxiq]
+description: A really simple plugin to log Server List Pings to the console.
+website: https://github.com/fxiqval/pingLog
